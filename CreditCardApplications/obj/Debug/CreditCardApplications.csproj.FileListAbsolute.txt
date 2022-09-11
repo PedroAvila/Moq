@@ -1,0 +1,6 @@
+C:\Csharp\CreditCardApplications\CreditCardApplications\bin\Debug\CreditCardApplications.dll
+C:\Csharp\CreditCardApplications\CreditCardApplications\bin\Debug\CreditCardApplications.pdb
+C:\Csharp\CreditCardApplications\CreditCardApplications\obj\Debug\CreditCardApplications.csproj.AssemblyReference.cache
+C:\Csharp\CreditCardApplications\CreditCardApplications\obj\Debug\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Csharp\CreditCardApplications\CreditCardApplications\obj\Debug\CreditCardApplications.dll
+C:\Csharp\CreditCardApplications\CreditCardApplications\obj\Debug\CreditCardApplications.pdb
